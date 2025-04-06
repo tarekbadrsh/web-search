@@ -1,0 +1,6 @@
+click==8.1.8
+duckduckgo-search==2025.4.4
+fastapi==0.115.12
+requests==2.32.3
+uvicorn==0.34.0
+groq==0.22.0
